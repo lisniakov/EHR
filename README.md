@@ -21,20 +21,6 @@ This project provides a basic implementation of an EHR system.
 - Simple and easy-to-understand structure
 - Easy to extend with new functionality
 
-## Project Structure
-
-```
-
-EHR/
-│
-├── src/        # Source code
-├── data/       # Data or database files
-├── docs/       # Documentation (optional)
-└── README.md
-
-````
-
-*(The structure may vary depending on the implementation.)*
 
 ## Installation
 
